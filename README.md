@@ -3,7 +3,7 @@ In this program, we can pass nepali words with preposition attached on it and th
 
 This is a basic (and partial) program of stemming in Nepali Natural Language processing.
 
-#Sample output:
+# Sample output:
 
 How many words do you want to input: 8 
 
